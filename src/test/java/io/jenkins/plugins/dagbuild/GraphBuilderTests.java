@@ -1,5 +1,5 @@
 package io.jenkins.plugins.dagbuild;
 
-public class GraphBuilder {
-
+public class GraphBuilderTests {
+    
 }
